@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1424894386 source:c:\users\eugenius\c language\pointer\main.c
+	<stdio.h>
+	<conio.h>
+
+1426174469 source:c:\users\eugenius\c language\pointer\iura.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+

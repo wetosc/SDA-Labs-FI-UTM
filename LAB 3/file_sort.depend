@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1430254035 source:c:\users\eugenius\c language\file_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

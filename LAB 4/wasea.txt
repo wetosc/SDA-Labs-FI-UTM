@@ -1,0 +1,4 @@
+1256|wasea|wasea|Android|4.600000|2.800000|1.0.0|
+8563|alfa|beta|WinPhone|8.600000|2.600000|1.0.1|
+1|alfa|beta|Android|5.500000|1.600000|1.0.0|
+2|ha|ha|WinPhone|2.800000|3.100000|1.5.8|
