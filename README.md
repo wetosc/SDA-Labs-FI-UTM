@@ -1,4 +1,4 @@
-# SDA-Labs-FI-UTM
+# SDA Labs FI UTM
 Exemplu de laboratoare pentru studenții UTM, obiectul Structuri de date și algoritmi.
 
 Example of laboratoires for UTM students, first year, SDA.
